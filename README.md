@@ -2,7 +2,7 @@
 
 A simple yet effective **Password Strength Meter** built with **Python & Streamlit** to help users create strong and secure passwords.
 
-🚀 **Live Demo**: [Password Strength Checker](https://password-checker-bilal.streamlit.app/)
+🚀 **Live Demo**: <a href="https://password-checker-bilal.streamlit.app/" target="_blank">Password Strength Checker</a>
 
 ---
 
